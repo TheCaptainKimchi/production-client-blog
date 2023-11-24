@@ -6,21 +6,21 @@ Although the project is still in its infancy, I look to journal the progress as 
 
 ## About the developer
 
-    Hello! My name is Raul, a Software Engineer based out of Vancouver, BC. With a lifelong passion for Software and tech in general, I've been working with tech as young as 6 years old (2001) when our family got our first laptop. With no YouTube, Google, or any search-engines (that I knew of at the time), I would spend the next few years playing around with the laptop installing various games, updating and setting up software for our family, and just learning about how the web worked.
+Hello! My name is Raul, a Software Engineer based out of Vancouver, BC. With a lifelong passion for Software and tech in general, I've been working with tech as young as 6 years old (2001) when our family got our first laptop. With no YouTube, Google, or any search-engines (that I knew of at the time), I would spend the next few years playing around with the laptop installing various games, updating and setting up software for our family, and just learning about how the web worked.
 
-    Fast forward to today (2023-11-23) and I now have coming close to three decades of experience around intermediate to advance technologies. Being a self-taught developer, I started with tools such as Python building webapps with HTML/CSS and Flask for three years. In 2023, I completed my diploma for Software Engineering and became up to date with the latest design trends focusing on becoming a full-stack developer. Some of the skills I specialize in are:
+Fast forward to today (2023-11-23) and I now have coming close to three decades of experience around intermediate to advance technologies. Being a self-taught developer, I started with tools such as Python building webapps with HTML/CSS and Flask for three years. In 2023, I completed my diploma for Software Engineering and became up to date with the latest design trends focusing on becoming a full-stack developer. Some of the skills I specialize in are:
 
-        HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, Node, Vite, React, React Native, Electron, Express, WordPress, Wix, SQL, MySQL, PostgreSQL, PHP, Agile Development, Scrum, Document Object Model (DOM), Restful APIs, User Authentication, OAuth, Heroku, AWS, GitHub, Git, Jest, Knex, Python, Linux
+    HTML, CSS, Bootstrap, JavaScript, TypeScript, jQuery, Node, Vite, React, React Native, Electron, Express, WordPress, Wix, SQL, MySQL, PostgreSQL, PHP, Agile Development, Scrum, Document Object Model (DOM), Restful APIs, User Authentication, OAuth, Heroku, AWS, GitHub, Git, Jest, Knex, Python, Linux
 
-    With more being added everyday! I am currently learning Vue.js and native app development including desktop and mobile.
+With more being added everyday! I am currently learning Vue.js and native app development including desktop and mobile.
 
-    My goals are to work and develop with an amazing team and add my lifelong experience and passion to create amazing ideas! To close the gap on my missing full-time experience, completing the Software Engineering program helped vault my experience leap years ahead of where it was previously at and allowed me to work with cross-collaborative teams on several hackathon projects and a warehouse inventory web application. Along with the completion of the diploma, I have also been taking freelance work for various organizations and clients further enhancing my skillset and gaining valuable professional exerience.
+My goals are to work and develop with an amazing team and add my lifelong experience and passion to create amazing ideas! To close the gap on my missing full-time experience, completing the Software Engineering program helped vault my experience leap years ahead of where it was previously at and allowed me to work with cross-collaborative teams on several hackathon projects and a warehouse inventory web application. Along with the completion of the diploma, I have also been taking freelance work for various organizations and clients further enhancing my skillset and gaining valuable professional exerience.
 
-    I'm always looking to connect with other developers either to learn or teach so feel free to check out any of my socials below and reach out:
+I'm always looking to connect with other developers either to learn or teach so feel free to check out any of my socials below and reach out:
 
-        https://www.linkedin.com/in/raulcalero/
-        https://github.com/TheCaptainKimchi
-        https://twitter.com/_CaptainKimchi
+    https://www.linkedin.com/in/raulcalero/
+    https://github.com/TheCaptainKimchi
+    https://twitter.com/_CaptainKimchi
 
 ## 2023-11-23
 
