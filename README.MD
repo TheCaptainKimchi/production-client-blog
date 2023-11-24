@@ -6,9 +6,7 @@ Although the project is still in its infancy, I look to journal the progress as 
 
 ## About the developer
 
-"Hello!
-
-    My name is Raul, a Software Engineer based out of Vancouver, BC. With a lifelong passion for Software and tech in general, I've been working with tech as young as 6 years old (2001) when our family got our first laptop. With no YouTube, Google, or any search-engines (that I knew of at the time), I would spend the next few years playing around with the laptop installing various games, updating and setting up software for our family, and just learning about how the web worked.
+    Hello! My name is Raul, a Software Engineer based out of Vancouver, BC. With a lifelong passion for Software and tech in general, I've been working with tech as young as 6 years old (2001) when our family got our first laptop. With no YouTube, Google, or any search-engines (that I knew of at the time), I would spend the next few years playing around with the laptop installing various games, updating and setting up software for our family, and just learning about how the web worked.
 
     Fast forward to today (2023-11-23) and I now have coming close to three decades of experience around intermediate to advance technologies. Being a self-taught developer, I started with tools such as Python building webapps with HTML/CSS and Flask for three years. In 2023, I completed my diploma for Software Engineering and became up to date with the latest design trends focusing on becoming a full-stack developer. Some of the skills I specialize in are:
 
@@ -23,7 +21,6 @@ Although the project is still in its infancy, I look to journal the progress as 
         https://www.linkedin.com/in/raulcalero/
         https://github.com/TheCaptainKimchi
         https://twitter.com/_CaptainKimchi
-    "
 
 ## 2023-11-23
 
