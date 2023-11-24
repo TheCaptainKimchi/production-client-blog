@@ -18,9 +18,14 @@ My goals are to work and develop with an amazing team and add my lifelong experi
 
 I'm always looking to connect with other developers either to learn or teach so feel free to check out any of my socials below and reach out:
 
-    https://www.linkedin.com/in/raulcalero/
-    https://github.com/TheCaptainKimchi
-    https://twitter.com/_CaptainKimchi
+LinkedIn
+https://www.linkedin.com/in/raulcalero/
+
+GitHub
+https://github.com/TheCaptainKimchi
+
+Twitter
+https://twitter.com/_CaptainKimchi
 
 ## 2023-11-23
 
